@@ -1,0 +1,9 @@
+Package: com.maximehip.centurion
+Name: Centurion
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: Add notification count for favorite apps in lockscreen
+Maintainer: maximehip
+Author: maximehip
+Section: Tweaks
